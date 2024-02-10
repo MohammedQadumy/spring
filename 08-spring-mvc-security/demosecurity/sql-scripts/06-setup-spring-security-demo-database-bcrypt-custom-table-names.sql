@@ -4,7 +4,7 @@ DROP TABLE IF EXISTS `roles`;
 DROP TABLE IF EXISTS `members`;
 
 --
--- Table semployeetructure for table `members`
+-- Table structure for table `members`
 --
 
 CREATE TABLE `members` (
